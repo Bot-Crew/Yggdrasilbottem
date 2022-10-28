@@ -7,7 +7,7 @@ simply copy this with
 git clone https://github.com/Bot-Crew/Yggdrasilbottem.git
 cd Yggdrasilbottem
 npm i
-node .
+node index.js
 ```
 ignore the Error messages
 Lol
