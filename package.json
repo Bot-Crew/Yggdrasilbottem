@@ -1,0 +1,20 @@
+{
+    "name": "yggdrasilbotem_old_de",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Cypis",
+    "license": "Apache License",
+    "dependencies": {
+        "nodejs": "^0.0.0",
+        "ping": "^0.4.2",
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.16.7",
+        "wlan": "0.0.0",
+        "ws": "^8.8.0"
+    }
+}
