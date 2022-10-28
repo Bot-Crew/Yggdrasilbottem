@@ -10,4 +10,4 @@ npm i
 node index.js
 ```
 ignore the Error messages
-Lol
+
