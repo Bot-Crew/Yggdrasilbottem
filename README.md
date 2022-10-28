@@ -10,3 +10,4 @@ npm i
 node .
 ```
 ignore the Error messages
+Lol
