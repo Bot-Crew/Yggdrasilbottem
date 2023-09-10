@@ -36,7 +36,7 @@ Yggdrasilbot comes equipped with the following features and commands:
 
 2. Install the required dependencies using `npm install`.
 
-3. Run the bot using `node your-bot-file.js`.
+3. Run the bot using `node index.js`.
 
 4. Scan the QR code generated in your terminal with your WhatsApp mobile app to authenticate.
 
