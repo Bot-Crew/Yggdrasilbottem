@@ -1,5 +1,3 @@
-Sure, here's a README file in English with the bot commands translated into Polish:
-
 ---
 
 # Yggdrasilbot
@@ -103,5 +101,3 @@ If you'd like to contribute to this project, please fork the repository and crea
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize the README further to include additional information or branding specific to your Yggdrasilbot project.
