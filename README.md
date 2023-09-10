@@ -1,55 +1,65 @@
-# Yggdrasilbot - WhatsApp Bot
+# Yggdrasilbot - A WhatsApp Bot
 
-Yggdrasilbot is a versatile WhatsApp bot built using the WhatsApp Web API (whatsapp-web.js). This bot offers a variety of useful features and commands to enhance your WhatsApp experience.
+**Yggdrasilbot** is a WhatsApp bot that can help you perform various tasks in Polish. Please note that the bot communicates in Polish. Below, you'll find a list of commands and functionalities that the bot provides:
 
-## Features
+## Commands
 
-Yggdrasilbot comes equipped with the following features and commands:
+1. **!ping**
+   - Ask the bot for its ping.
+   - Usage: `!ping`
 
-1. **!ping**: Check the bot's ping.
+2. **!sag**
+   - Let the bot send a specified text message.
+   - Usage: `!sag YourTextHere`
 
-2. **!sag**: Let the bot send a custom message.
+3. **!betrete**
+   - Invite the bot to your group.
+   - Usage: Share your group's invite link.
 
-3. **!betrete**: Invite the bot to your group via an invite link.
+4. **!gruppeninfo**
+   - Display information about the group.
+   - Usage: `!gruppeninfo`
 
-4. **!gruppeninfo**: View group information.
+5. **!gruppenbeschreibung**
+   - Show the group's description.
+   - Usage: `!gruppenbeschreibung`
 
-5. **!gruppenbeschreibung**: View the group's description.
+6. **!chats**
+   - See how many open chats the bot has.
+   - Usage: `!chats`
 
-6. **!chats**: Check the number of open chats the bot has.
+7. **!info**
+   - View the bot's contact information.
+   - Usage: `!info`
 
-7. **!info**: Get information about the bot, such as its name and number.
+8. **!ich**
+   - Mention yourself.
+   - Usage: `!ich`
 
-8. **!ich**: Have the bot mention you.
+9. **!whatsapp**
+   - Get a link to your WhatsApp number.
+   - Usage: `!whatsapp`
 
-9. **!whatsapp**: Receive a link to your own WhatsApp number.
+10. **!löschen**
+    - Allow the bot to delete its own messages.
+    - Usage: `!löschen`
 
-10. **!löschen**: Allow the bot to delete its own messages.
+11. **!besitzer**
+    - Show how to contact _Cypis_, the owner of the bot.
+    - Usage: `!besitzer`
 
-11. **!besitzer**: Learn how to contact the bot's owner.
+12. **!support**
+    - Provide a link to Yggdrasilbot's support group.
+    - Usage: `!support`
 
-12. **!support**: Get a link to the Yggdrasilbot support group.
+## Language
 
-## Installation and Usage
+Yggdrasilbot communicates in Polish. Please ensure that your messages and commands are in Polish for the bot to respond correctly.
 
-1. Clone this repository to your local machine.
+**_Made by Cypis_**
 
-2. Install the required dependencies using `npm install`.
+Feel free to reach out if you have any questions or need assistance with the bot.
 
-3. Run the bot using `node index.js`.
+---
 
-4. Scan the QR code generated in your terminal with your WhatsApp mobile app to authenticate.
-
-5. Start using the bot by sending commands mentioned above in WhatsApp.
-
-## Contribution
-
-Contributions to this project are welcome. Feel free to open issues or submit pull requests to enhance or fix the bot.
-
-## Credits
-
-- Created by _Cypis_.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+**Note**: This README provides an overview of Yggdrasilbot's capabilities. For a complete list of commands and their usage, please refer to the bot's responses when using the commands in your WhatsApp chat.
