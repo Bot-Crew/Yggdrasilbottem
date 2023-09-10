@@ -29,7 +29,7 @@ ${ping}`);
 Pozdrowienia od ${info.pushname}.
 Jeśli chcesz skontaktować się z _Cypis_, napisz = !kontakt`);
     } else if (msg.body === '!kontakt') {
-        let Cypis = '14427862189'
+        let Cypis = 'twój numer'
         const contact = await msg.getContact();
         client.sendMessage(msg.from, `Cześć @${contact.number},
 Wiem, dlaczego do mnie napisałeś, ale oto: https://wa.me/${Cypis}.
@@ -331,7 +331,7 @@ _Wykonane przez Cypisa_
 client.on('call', async (call, msg) => {
     const contact = msg.getContact();
     if (!call.isGroup || !call.participants.length) {
-        client.sendText(call.participants, `Zablokowano ze względu na połączenie. Automatyczne zablokowanie! Skontaktuj się pod adresem: https://wa.me/4917629368004/?text=Odblokuj+mnie+proszę!`);
+        client.sendText(call.participants, `Zablokowano ze względu na połączenie. Automatyczne zablokowanie! Skontaktuj się pod adresem: https://wa.me/twój numer/?text=Odblokuj+mnie+proszę!`);
         await contact.block();
     }
 }, );
