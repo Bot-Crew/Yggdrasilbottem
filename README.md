@@ -4,7 +4,7 @@ Sure, here's a README file in English with the bot commands translated into Poli
 
 # Yggdrasilbot
 
-![Yggdrasilbot Logo]([link_to_your_logo_here](https://th.bing.com/th/id/R.349d2a3d12797b262fedf9214a8006dc?rik=arp5B2PAxvlhBg&pid=ImgRaw&r=0))
+![Yggdrasilbot Logo](https://th.bing.com/th/id/R.349d2a3d12797b262fedf9214a8006dc?rik=arp5B2PAxvlhBg&pid=ImgRaw&r=0****)
 
 Yggdrasilbot is a versatile WhatsApp bot created by _Cypis_. This bot can assist you with various tasks and provide information. Please note that the bot's commands are primarily in Polish, but the README is in English to help you get started.
 
